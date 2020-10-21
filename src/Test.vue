@@ -15,6 +15,7 @@ export default {
         }; 
     },
     mounted(){
+        //mounted = felszerelve
         //debugger;//debugger indítása.
         console.log("I'm mounted!");
     },
